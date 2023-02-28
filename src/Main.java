@@ -11,5 +11,7 @@ public class Main {
         double z = 3.0 * Math.pow(Math.cos(x - Math.PI / 6.0), 2.0) /
                 (0.5 + Math.sin(y) * Math.sin(y) );
         System.out.println("z = " + z);
+        System.out.println("z = " + z);
+        System.out.println("z = " + z);
     }
 }
